@@ -1,0 +1,82 @@
+*{
+	border-radius: 0;
+}
+
+#Wrapper{
+	background-image: url("http://www.lanrentuku.com/img/allimg/1206/5-120601095934.jpg");
+	background-repeat: repeat;
+}
+
+#Top{
+	background: #fff;
+	height: 42px;
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.box{
+	border-radius: 0;
+}
+
+.topic_buttons{
+	border-radius: 0;
+	background: #eeeeee;
+}
+
+
+.tag:link, .tag:visited{
+	border-radius: 0;
+}
+
+.no{
+	border-radius: 0;
+}
+
+img.avatar{
+	border-radius: 0;
+}
+
+a.balance_area:link, a.balance_area:visited, .balance_area{
+	background: #f9f9f9;
+	-webkit-border-radius: 0px;
+	border-radius: 0;
+}
+
+a.count_livid:link, a.count_livid:active{
+	
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+.item_node{
+	border-radius: 0;
+	background: #f3f3f3;
+}
+
+a.tab_current:link, a.tab_current:visited, a.tab_current:active{
+	border-radius: 0;
+}
+
+.vote:link, .vote:visited, .vote{
+	border-radius: 0;
+}
+
+.super.button{
+	background: none;
+	border-radius: 0;
+}
+
+.sl, .ml, .mll{
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.online{
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	background: #52bf1c;
+}
+
+#Search form div{
+	background-image: url('http://tonghs-cdn-static.qiniudn.com/search_bar.png')!important;
+}
