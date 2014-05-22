@@ -80,3 +80,7 @@ a.tab_current:link, a.tab_current:visited, a.tab_current:active{
 #Search form div{
 	background-image: url('http://tonghs-cdn-static.qiniudn.com/search_bar.png')!important;
 }
+
+a.op:link, a.op:visited, a.op:active{
+	border-radius: 0;
+}
